@@ -1,0 +1,37 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.ai.copilot",
+    "lazyvim.plugins.extras.ai.copilot-chat",
+    "lazyvim.plugins.extras.coding.mini-surround",
+    "lazyvim.plugins.extras.coding.yanky",
+    "lazyvim.plugins.extras.lang.docker",
+    "lazyvim.plugins.extras.lang.git",
+    "lazyvim.plugins.extras.lang.go",
+    "lazyvim.plugins.extras.lang.helm",
+    "lazyvim.plugins.extras.lang.json",
+    "lazyvim.plugins.extras.lang.markdown",
+    "lazyvim.plugins.extras.lang.python",
+    "lazyvim.plugins.extras.lang.sql",
+    "lazyvim.plugins.extras.lang.terraform",
+    "lazyvim.plugins.extras.lang.toml",
+    "lazyvim.plugins.extras.lang.typescript",
+    "lazyvim.plugins.extras.lang.yaml",
+    "rafi.plugins.extras.coding.align",
+    "rafi.plugins.extras.coding.editorconfig",
+    "rafi.plugins.extras.coding.mini-pairs",
+    "rafi.plugins.extras.coding.sandwich",
+    "rafi.plugins.extras.git.cmp-git",
+    "rafi.plugins.extras.git.fugitive",
+    "rafi.plugins.extras.lang.go",
+    "rafi.plugins.extras.lang.helm",
+    "rafi.plugins.extras.lang.kubernetes",
+    "rafi.plugins.extras.lang.markdown",
+    "rafi.plugins.extras.lang.python",
+    "rafi.plugins.extras.lsp.yaml-companion",
+    "rafi.plugins.extras.ui.cursorword"
+  ],
+  "news": [
+
+  ],
+  "version": 7
+}
