@@ -2,7 +2,7 @@ return {
 
 	-- Window with buffer text overview, scrollbar and highlights
 	{
-		'echasnovski/mini.map',
+		'nvim-mini/mini.map',
 		event = 'LazyFile',
 		keys = {
 			{ '<Leader>mn', '<cmd>lua MiniMap.toggle()<CR>', desc = 'Mini map' },
@@ -18,8 +18,8 @@ return {
 				-- 	minimap.gen_integration.gitsigns(),
 				-- },
 				symbols = {
-					scroll_line = '⎕',  -- '⎕', '█', '🮚', '▶'
-					scroll_view = '┊',  -- '⎮', '╎', '┋', '┊'
+					scroll_line = '⎕', -- '⎕', '█', '🮚', '▶'
+					scroll_view = '┊', -- '⎮', '╎', '┋', '┊'
 				},
 				window = {
 					show_integration_count = false,
@@ -32,6 +32,6 @@ return {
 			local minimap = require('mini.map')
 			minimap.setup(opts)
 			minimap.open()
-		end
+		end,
 	},
 }
